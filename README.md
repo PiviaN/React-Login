@@ -1,1 +1,1 @@
-login-react-firebase.netlify.app
+https://login-react-firebase.netlify.app/
